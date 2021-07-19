@@ -1,7 +1,2 @@
 jupyterlab
-colorgram.py==1.2.0
-matplotlib==3.2.2
-pydub==0.24.1
-librosa==0.7.2
-ffmpeg==1.4
-numba==0.48.0
+-r axidraw/requirements.txt
