@@ -1,0 +1,8 @@
+jupyterlab
+scipy
+numpy
+matplotlib
+ipywidgets
+sklearn
+git+https://github.com/abey79/vpype.git#egg=vpype
+https://cdn.evilmadscientist.com/dl/ad/public/AxiDraw_API.zip

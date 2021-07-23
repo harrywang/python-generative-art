@@ -1,0 +1,4 @@
+jupyterlab
+matplotlib
+numpy
+https://cdn.evilmadscientist.com/dl/ad/public/AxiDraw_API.zip  # axidraw driver

@@ -5,20 +5,13 @@ I often revise the code and add more comments (in README and inline) according t
 
 See each folder for details.
 
+# Setup
 
-# Axidraw
-
-Go to `axidraw` folder to learn how to setup Axidraw plotter with Python API.
-
-# Python Code
-
-You can setup and run the python code and notebook as follows:
+setup one virtual environment and install requirements from each sub folder:
 
 ```
 python3 -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
+pip install -r axidraw-python/requirements.txt
+pip install -r generativehut/gen-art-python/requirements.txt
 ```
-run `jupyterlab' to check out the notebook
-
-for audio, you need to `brew install ffmpeg`

@@ -1,2 +1,0 @@
-jupyterlab
--r axidraw/requirements.txt
