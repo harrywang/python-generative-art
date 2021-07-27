@@ -5,7 +5,7 @@ If you are new to generative art using Python and Axidraw plotter, start with my
 
 # Setup
 
-I put a separate requirement.txt file for each folder to make each tutorial self-contained. 
+I put a separate `requirement.txt` file for each folder to make each tutorial self-contained. 
 
 When you use the whole repo, I suggest you setup one virtual environment at the root of this project and install requirements from each sub folder as follows:
 
