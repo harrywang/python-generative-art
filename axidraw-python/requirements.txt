@@ -1,4 +1,7 @@
+ipywidgets
 jupyterlab
 matplotlib
 numpy
+scipy
 https://cdn.evilmadscientist.com/dl/ad/public/AxiDraw_API.zip  # axidraw driver
+git+https://github.com/abey79/vpype.git#egg=vpype  #vpype
