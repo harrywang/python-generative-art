@@ -1,13 +1,13 @@
 # About
 This repo includes my curated (and annotated) code for generative art from different sources - many thanks to the authors for open-sourcing their works.
 
-I often revise the code and add more comments (in README and inline) according to my own understanding. 
-
-See each folder for details.
+If you are new to generative art using Python and Axidraw plotter, start with my tutorial at `axidraw-python` folder first.
 
 # Setup
 
-setup one virtual environment and install requirements from each sub folder:
+I put a separate requirement.txt file for each folder to make each tutorial self-contained. 
+
+When you use the whole repo, I suggest you setup one virtual environment at the root of this project and install requirements from each sub folder as follows:
 
 ```
 python3 -m venv venv
