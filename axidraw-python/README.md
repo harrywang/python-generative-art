@@ -15,18 +15,23 @@ Please follow the instructions at https://wiki.evilmadscientist.com/Axidraw_Soft
 1. Download and install the latest version of [Inkscape for Mac](https://inkscape.org/) (1.1 tested)
 2. Download and run the latest [AxiDraw installer](https://wiki.evilmadscientist.com/Axidraw_Software_Installation) (AxiDraw_Install_Mac_274r1 tested)
 
-## Setup the Python API
+## Axidraw via Python
 
-You can access the official document at https://axidraw.com/doc/py_api
-
-Python 3.8+ with virtual environment. 
+You can setup the environment as follows (tested with Python 3.8+)
 
 ```
 $ python3 -m venv venv
 $ source venv/bin/activate
 $ pip install -r requirements.txt
 ```
-then, `jupyter lab` to run the notebook
+then, `jupyter lab` to run the notebook `axidraw-python/axidraw-basics.ipynb` to learn how to setup Axidraw and plot a simple SVG image.
+
+After that, you can look at `axidraw-python/voronoi-art.ipynb` for a more complicated tutorial on generating Voronoi diagram based art like:
+
+![art](https://user-images.githubusercontent.com/595772/127227945-6e172864-345a-4e63-a977-64466acfba5a.png)
+
+
+
 
 
 
