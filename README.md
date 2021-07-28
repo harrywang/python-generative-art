@@ -6,11 +6,15 @@ You should start with `axidraw-python/axidraw-basics.ipynb` notebook, which show
 
 After that, you can look at `axidraw-python/voronoi-art.ipynb` notebook for a more complicated tutorial on generating art based on Voronoi diagram like:
 
-![art](https://user-images.githubusercontent.com/595772/127227945-6e172864-345a-4e63-a977-64466acfba5a.png)
+<img src="https://user-images.githubusercontent.com/595772/127227945-6e172864-345a-4e63-a977-64466acfba5a.png" style="display: block; margin-left: auto; margin-right: auto; margin-bottom: 20pt; width: 40%;">
 
 It's fun to watch the plotting process:
 
-![voronoi-art](https://user-images.githubusercontent.com/595772/127374294-1c657a88-e1e8-4cc6-a0d8-f1965d778734.gif)
+<img src="https://user-images.githubusercontent.com/595772/127374294-1c657a88-e1e8-4cc6-a0d8-f1965d778734.gif" style="display: block; margin-left: auto; margin-right: auto; margin-bottom: 20pt; width: 40%;">
+
+It looks awesome after framed:
+
+<img src="https://user-images.githubusercontent.com/595772/127390033-dc394516-b2db-4ad1-9228-5ffe6fb845e0.jpg" style="display: block; margin-left: auto; margin-right: auto; margin-bottom: 20pt; width: 40%;">
 
 This tutorial is based on the following tutorials:
 
