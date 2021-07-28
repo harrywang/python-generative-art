@@ -1,10 +1,10 @@
 # About
 
-This repo includes my curated (and annotated) code for generative art from different sources - many thanks to the authors for open-sourcing their works.
+This tutorial shows how to make generative art using Python and Axidraw pen plotter. 
 
-If you are new to generative art using Python and Axidraw plotter, start with `axidraw-python/axidraw-basics.ipynb` notebook, which shows how to setup AxiDraw V3 and use Python to control it to plot a simple SVG.
+You should start with `axidraw-python/axidraw-basics.ipynb` notebook, which shows how to setup AxiDraw V3 and use Python to control it to plot a simple SVG.
 
-After that, you can look at `axidraw-python/voronoi-art.ipynb` for a more complicated tutorial on generating Voronoi diagram based art like:
+After that, you can look at `axidraw-python/voronoi-art.ipynb` notebook for a more complicated tutorial on generating art based on Voronoi diagram like:
 
 ![art](https://user-images.githubusercontent.com/595772/127227945-6e172864-345a-4e63-a977-64466acfba5a.png)
 
@@ -12,12 +12,10 @@ It's fun to watch the plotting process:
 
 ![voronoi-art](https://user-images.githubusercontent.com/595772/127374294-1c657a88-e1e8-4cc6-a0d8-f1965d778734.gif)
 
-This tutorial is based on the following tutorials and references:
+This tutorial is based on the following tutorials:
 
-- https://cdn.evilmadscientist.com/dl/ad/public/AxiDraw_Guide_v40_r3.pdf
-- https://www.generativehut.com/post/robots-and-generative-art-and-python-oh-my
-- https://www.chromatocosmos.com/post/a-brief-intro-to-generative-art-in-python-and-the-axidraw-plotter
-- https://www.generativehut.com/post/axidraw-processing
+- [https://cdn.evilmadscientist.com/dl/ad/public/AxiDraw_Guide_v40_r3.pdf](https://cdn.evilmadscientist.com/dl/ad/public/AxiDraw_Guide_v40_r3.pdf)
+- [https://www.generativehut.com/post/robots-and-generative-art-and-python-oh-my](https://www.generativehut.com/post/robots-and-generative-art-and-python-oh-my)
 
 ## Setup Inkscape and Axidraw Driver
 
