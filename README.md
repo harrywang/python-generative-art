@@ -1,6 +1,6 @@
 # About
 
-This tutorial shows how to make generative art using Python and Axidraw pen plotter. 
+This tutorial shows how to make generative art using Python and AxiDraw pen plotter. 
 
 You should start with `axidraw-python/axidraw-basics.ipynb` notebook, which shows how to setup AxiDraw V3 and use Python to control it to plot a simple SVG.
 
@@ -8,7 +8,7 @@ After that, you can look at `axidraw-python/voronoi-art.ipynb` notebook for a mo
 
 <img src="https://user-images.githubusercontent.com/595772/127227945-6e172864-345a-4e63-a977-64466acfba5a.png" style="display: block; margin-left: auto; margin-right: auto; margin-bottom: 20pt; width: 40%;">
 
-It's fun to watch the plotting process:
+It's fun to watch the plotting process. I named my AxiDraw pen plotter "Bohu" after [Bohu Tang](https://en.wikipedia.org/wiki/Tang_Yin) (1470-1524) - a Chinese painter, calligrapher, and poet of the Ming dynasty period, who is 18 years younger than Leonardo da Vinci (1452-1519).
 
 <img src="https://user-images.githubusercontent.com/595772/127374294-1c657a88-e1e8-4cc6-a0d8-f1965d778734.gif" style="display: block; margin-left: auto; margin-right: auto; margin-bottom: 20pt; width: 40%;">
 
