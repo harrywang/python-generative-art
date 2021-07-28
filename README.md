@@ -1,4 +1,4 @@
-# About
+# Generative Art via Python
 This repo includes my curated (and annotated) code for generative art from different sources - many thanks to the authors for open-sourcing their works.
 
 If you are new to generative art using Python and Axidraw plotter, start with my tutorial at `axidraw-python` folder first.
