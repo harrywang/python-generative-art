@@ -30,6 +30,10 @@ After that, you can look at `axidraw-python/voronoi-art.ipynb` for a more compli
 
 ![art](https://user-images.githubusercontent.com/595772/127227945-6e172864-345a-4e63-a977-64466acfba5a.png)
 
+It's fun to watch the plotting process:
+
+![voronoi-art](https://user-images.githubusercontent.com/595772/127374294-1c657a88-e1e8-4cc6-a0d8-f1965d778734.gif)
+
 ## Plotting via Inkscape
 
 Once you have the SVG ready, you can follow the steps below to plot it via AxiDraw:
@@ -57,3 +61,5 @@ Setup the pen using "Pen up" and adjust the pen tip 3mm-6mm above the paper.
 Position the left upper corner of the paper directly underneath the pen tip and start plotting using the Apply button shown below. Note that the plotting will pause if the computer goes to sleep.
 
 <img width="600" alt="Screen Shot 2021-07-28 at 9 31 25 AM" src="https://user-images.githubusercontent.com/595772/127330963-6fd1dd0b-971a-4435-8f17-08c59cfc15e4.png">
+
+
