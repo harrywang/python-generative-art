@@ -1,4 +1,6 @@
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Generative Art via Python
 description: Harry Wang
 google_analytics: UA-154507291-1
-theme: jekyll-theme-modernist
